@@ -1,6 +1,6 @@
 # RandomSelectApp
 
-To run the Application 
+>To Run the Application 
 - Download the Application to your System 
 - Open folder in Command Line
 - Run **yarn install** in Command Line
